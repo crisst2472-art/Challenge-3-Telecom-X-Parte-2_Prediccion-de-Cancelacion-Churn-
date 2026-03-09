@@ -23,3 +23,4 @@ Desarrollar modelos predictivos capaces de prever qué clientes tienen mayor pro
 ✅ Construcción y evaluación de modelos predictivos
 ✅ Interpretación de resultados y entrega de insights
 ✅ Comunicación técnica con enfoque estratégico
+
